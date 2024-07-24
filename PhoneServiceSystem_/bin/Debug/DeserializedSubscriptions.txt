@@ -1,0 +1,6 @@
+Client ID: 1
+Subscription Type: Basic
+Description: A limited number of talk minutes for calls to national numbers,a limited number of included text messages, Mobile data, Emergenecy calls
+Monthly Fee: 13.55
+Registration Date: 5/30/2024 1:05:53 PM
+

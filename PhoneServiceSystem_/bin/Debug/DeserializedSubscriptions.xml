@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfSubscription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Subscription>
+    <ClientId>1</ClientId>
+    <Name>A limited number of talk minutes for calls to national numbers,a limited number of included text messages, Mobile data, Emergenecy calls</Name>
+    <MonthlyFee>13.55</MonthlyFee>
+    <RegistrationDate>2024-05-30T12:55:56.4917789+03:00</RegistrationDate>
+    <type>Basic</type>
+  </Subscription>
+</ArrayOfSubscription>
